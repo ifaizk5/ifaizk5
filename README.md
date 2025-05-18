@@ -61,7 +61,7 @@
 
 ---
 
-## 📈 GitHub Stats & Trophies
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ifaizk5&show_icons=true&theme=radical&border_radius=10" height="150" alt="Stats" />
