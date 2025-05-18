@@ -13,11 +13,9 @@
   - Cybersecurity Simulation App (XSS, SQLi, RSA, Caesar Cipher)
 
 🌱 I’m learning:
-  - .NET Backend with SQL Server
+  - Next.js, Node.js, Express.js
   - Advanced React (Hooks, Context, Optimizations)
 
-💡 Fun fact:
-  - I simulate cyber attacks in React modals 😎
 ````
 
 ---
