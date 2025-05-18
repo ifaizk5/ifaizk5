@@ -1,6 +1,6 @@
 <!-- Typing animation header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFD2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Faiz;Frontend+Developer+%7C+React+Learner;Web+Security+%26+Portfolio+Engineer;SQL+Server+Explorer+%7C+Fullstack+Motivated" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFA6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Faiz;Frontend+Developer+%7C+React+Learner;Web+Engineer+%26+Developer;SQL+Server+Explorer+%7C+Fullstack+Motivated" alt="Typing SVG" />
 </p>
 
 ---
@@ -42,10 +42,10 @@
 ### 🔧 Tools & Platforms
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" alt="Vite" />
+  <img src="https://github.com/user-attachments/assets/e82679d2-b16a-4252-a977-b6bc2f29f54f" height="40" alt="Vite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" height="40" alt="Netlify" />
+  <img src="https://github.com/user-attachments/assets/c4af5344-0fd4-4fea-8136-3008a6f82a59" height="40" alt="Netlify" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
 </p>
 
@@ -54,12 +54,12 @@
 ## 💼 Featured Projects
 
 * 🔐 **Cybersecurity Vulnerability Simulator**
-  `A modular React app simulating XSS, SQL Injection, and DDoS vulnerabilities.`
-  **Features:** Caesar & RSA Encryption | Modal-based UI | Copy-to-Clipboard | Simulated attacks
+  `A modular React app simulating XSS, SQL Injection, and DDoS vulnerabilities.`<br>
+  **Features:** `Caesar & RSA Encryption | Modal-based UI | Simulated attacks`
 
 * 📁 **E-Portfolio Generator**
-  `A responsive portfolio builder exporting HTML via form-based React inputs.`
-  **Tech:** React, Vite, FileSaver.js, Blob, Netlify, LocalStorage, Context API
+  `A responsive portfolio builder exporting HTML via form-based React inputs.`<br>
+  **Tech:** `React, Vite, FileSaver.js, Blob, Netlify, LocalStorage, Context API`
 
 ---
 
