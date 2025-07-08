@@ -27,8 +27,11 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
+  <img width="40" height="40" src="https://img.icons8.com/color/40/bootstrap--v2.png" alt="bootstrap--v2"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img width="40" height="40" src="https://img.icons8.com/color/100/nodejs.png" alt="nodejs"/>
+  <img width="40" height="40" src="https://img.icons8.com/color/40/express-js.png" alt="express-js"/>
 </p>
 
 ### 💾 Databases & Backend
@@ -45,6 +48,7 @@
   <img src="https://github.com/user-attachments/assets/e82679d2-b16a-4252-a977-b6bc2f29f54f" height="40" alt="Vite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo"/>
   <img src="https://github.com/user-attachments/assets/c4af5344-0fd4-4fea-8136-3008a6f82a59" height="40" alt="Netlify" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
 </p>
