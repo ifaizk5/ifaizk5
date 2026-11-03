@@ -1,0 +1,15 @@
+{
+  "name": "ifaizk5-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "render": "node scripts/render.mjs"
+  },
+  "dependencies": {
+    "@fontsource/instrument-serif": "^5.2.0",
+    "@fontsource/silkscreen": "^5.2.0",
+    "@fontsource/space-grotesk": "^5.2.0",
+    "@fontsource/space-mono": "^5.2.0",
+    "subset-font": "^2.4.0"
+  }
+}

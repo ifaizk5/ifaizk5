@@ -1,71 +1,68 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img alt="Faiz Khan, software engineer. Frontend, backend, cloud and AI research. BS Software Engineering, SZABIST 2026. Pakistan. Open to software engineering roles." src="assets/hero-light.svg" width="100%">
+  <img alt="Faiz Khan, a software engineer who builds interfaces, designs backends, trains models and ships to the cloud. Pakistan. Open to software engineering roles." src="assets/hero-light.svg" width="100%">
 </picture>
 
-<p align="center">
-  <a href="https://faizkhan.tech"><b>Portfolio</b></a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/faizk5">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:faizedu3@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://faizkhan.tech/Faiz-Khan-Resume.pdf">Résumé</a>
-</p>
+<p align="right"><sub>
+  <a href="https://faizkhan.tech">faizkhan.tech</a> &nbsp;/&nbsp;
+  <a href="https://www.linkedin.com/in/faizk5">linkedin</a> &nbsp;/&nbsp;
+  <a href="mailto:faizedu3@gmail.com">email</a> &nbsp;/&nbsp;
+  <a href="https://faizkhan.tech/Faiz-Khan-Resume.pdf">résumé</a>
+</sub></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/map-dark.svg">
+  <img alt="A map of experiments: projects plotted from interface to infrastructure and from practice to product and research. HealthLens and FairVision (AI/ML), SafeZone (backend), the btbt store and Noteify (full-stack), faizkhan.tech and Figma-to-code builds (frontend), plus small tools." src="assets/map-light.svg" width="100%">
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/specimen-dark.svg">
+  <img alt="Specimen 01, currently building: HealthLens, an end-to-end healthcare ML playground with pandas, Polars, scikit-learn, XGBoost, PyTorch, SHAP, Hugging Face NER, FastAPI, PostgreSQL, React, MLflow and Docker Compose." src="assets/specimen-light.svg" width="100%">
+</picture>
+
+<p align="left"><sub><a href="https://github.com/ifaizk5/healthcare-ai">open the HealthLens repo →</a></sub></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/bench-dark.svg">
+  <img alt="Also on the bench: btbt and beanThere MERN storefronts with a neo-brutalist UI, Noteify (MERN notes app from 10Pearls), faizkhan.tech, Figma-to-code builds of an NFT site, Rappi and neoFi, an Internee.pk landing page clone, and small tools." src="assets/bench-light.svg" width="100%">
+</picture>
+
+<p align="center"><sub>
+  <a href="https://btbt.vercel.app">btbt store</a> ·
+  <a href="https://github.com/ifaizk5/faiz-khan-mern-10pshine">Noteify</a> ·
+  <a href="https://github.com/ifaizk5/portfolio">faizkhan.tech source</a> ·
+  <a href="https://ifaizk5.github.io/NFT_Site/">NFT site</a> ·
+  <a href="https://ifaizk5.github.io/rappi/">Rappi</a> ·
+  <a href="https://ifaizk5.github.io/neoFi/">neoFi</a> ·
+  <a href="https://github.com/ifaizk5/Interee.pk-Clone">Internee.pk</a>
+</sub></p>
 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/whoami-dark.svg">
-  <img alt="GET /api/faiz returns: Software Engineer, open to work. Focus: frontend, backend, cloud. Experience: ZETSOL Technologies, 10Pearls, Grands Digital. Published research: Mixed Reality Compositing on Meta Quest 3. Community: IEEE SZABIST IT Officer, Aspire Leaders Program. Interests: AI, cloud computing, emerging tech. BS Software Engineering, SZABIST 2026. Pakistan." src="assets/whoami-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/buildlog-dark.svg">
+  <img alt="Build log: latest commits and contributions over the last 52 weeks, regenerated daily from the GitHub API." src="assets/buildlog-light.svg" width="100%">
 </picture>
-
-<br><br>
-
-<!-- Cards use <picture> for theme switching; GitHub splits a <picture> placed inside a link, so links sit in the row below. -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-fairvision-dark.svg"><img alt="FairVision: detects and mitigates bias in datasets. React, FastAPI, Pandas, MongoDB." src="assets/work-fairvision-light.svg" width="49%"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-safezone-dark.svg"><img alt="SafeZone: secure incident-reporting APIs with JWT auth and role-based access. NestJS, PostgreSQL, Drizzle, Swagger." src="assets/work-safezone-light.svg" width="49%"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-noteify-dark.svg"><img alt="Noteify: full-stack notes app from the 10Pearls Shine program. MongoDB, Express, React, Node.js." src="assets/work-noteify-light.svg" width="49%"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-portfolio-dark.svg"><img alt="faizkhan.tech: this portfolio, deployed by CI on every push. React, TypeScript, GSAP, Vercel." src="assets/work-portfolio-light.svg" width="49%"></picture>
-
-<p align="center"><sub>
-  <a href="https://faizkhan.tech/#work">FairVision &amp; SafeZone on faizkhan.tech ↗</a> &nbsp;·&nbsp;
-  <a href="https://github.com/ifaizk5/faiz-khan-mern-10pshine">Noteify repo ↗</a> &nbsp;·&nbsp;
-  <a href="https://github.com/ifaizk5/portfolio">Portfolio repo ↗</a>
-</sub></p>
-
-<br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/route-dark.svg">
-  <img alt="The route so far: SZABIST 2022, IEEE IT Officer 2024, Grands Digital 2025, 10Pearls 2026, ZETSOL 2026. Next: Software Engineer." src="assets/route-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/box-dark.svg">
+  <img alt="Back of the box: languages by bytes across public repositories, recalculated daily, plus published research on Mixed Reality Compositing on Meta Quest 3, IEEE SZABIST IT Officer, the Aspire Leaders Program and 18 certifications." src="assets/box-light.svg" width="100%">
 </picture>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/toolkit-dark.svg">
-  <img alt="Toolkit. Frontend: React, TypeScript, JavaScript, Tailwind CSS, Vite, HTML5. Backend: Node.js, NestJS, Express, FastAPI, JWT, RBAC, Swagger. Data: PostgreSQL, MongoDB, Drizzle ORM, Python, Pandas, SQL. Cloud and tools: Vercel, AWS S3, Git, GitHub, Postman, Copilot." src="assets/toolkit-light.svg" width="100%">
-</picture>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/learning-dark.svg">
-  <img alt="Always learning: 18 certifications, including Supervised Machine Learning (Stanford Online), GitHub Foundations, Version Control and Programming with JavaScript (Meta), Google AI Essentials, Introduction to Linux (The Linux Foundation), MongoDB Node.js Developer Path, and the National Skills Competency Test." src="assets/learning-light.svg" width="100%">
-</picture>
-
-<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/signoff-dark.svg">
-  <img alt="faizkhan.tech. Open to software engineering roles." src="assets/signoff-light.svg" width="100%">
+  <img alt="Say hello at faizkhan.tech. Open to software engineering roles across frontend, backend and cloud." src="assets/signoff-light.svg" width="100%">
 </picture>
 
 <details>
-<summary><sub>Plain-text version</sub></summary>
+<summary><sub>plain text</sub></summary>
 
-**Faiz Khan** is a software engineer from Pakistan and a 2026 BS Software Engineering graduate of SZABIST, open to software engineering roles across frontend, backend and cloud. He has published research on Mixed Reality Compositing on Meta Quest 3, served as IT Officer for the IEEE SZABIST student branch, took part in the Aspire Leaders Program, and holds 18 certifications including Stanford Online's Supervised Machine Learning.
+Faiz Khan is a software engineer from Pakistan (BS Software Engineering, SZABIST 2026) who works across interfaces, backends, machine learning and cloud deployment. Experience: ZETSOL Technologies (backend trainee engineer, NestJS and PostgreSQL), 10Pearls (MERN intern), Grands Digital (web development intern). Currently building HealthLens, a healthcare ML playground. Also: published research on Mixed Reality Compositing on Meta Quest 3, IT Officer for IEEE SZABIST, Aspire Leaders Program, 18 certifications.
 
-- **Experience:** Backend trainee engineer at ZETSOL Technologies (NestJS, PostgreSQL, Drizzle ORM), MERN intern at 10Pearls, web development intern at Grands Digital, IT Officer for the IEEE SZABIST student branch.
-- **Projects:** FairVision (dataset bias detection), SafeZone (secure incident-reporting backend), Noteify (MERN notes app), and [faizkhan.tech](https://faizkhan.tech).
-- **Contact:** [faizedu3@gmail.com](mailto:faizedu3@gmail.com) · [LinkedIn](https://www.linkedin.com/in/faizk5)
+Open to software engineering roles: [faizkhan.tech](https://faizkhan.tech) · [faizedu3@gmail.com](mailto:faizedu3@gmail.com) · [LinkedIn](https://www.linkedin.com/in/faizk5)
+
+<sub>The build log and language label are regenerated daily by a GitHub Action in this repo (`scripts/render.mjs`); if a run fails, the last generated images stay in place.</sub>
 
 </details>
