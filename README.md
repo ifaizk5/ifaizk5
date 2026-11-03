@@ -19,11 +19,17 @@
 
 <br><br>
 
-<!-- Clickable cards use GitHub's #gh-*-mode-only images: a <picture> inside a link gets split by GitHub's own image links. -->
-<a href="https://faizkhan.tech/#work"><img alt="FairVision: detects and mitigates bias in datasets. React, FastAPI, Pandas, MongoDB." src="assets/work-fairvision-dark.svg#gh-dark-mode-only" width="49%"><img alt="FairVision: detects and mitigates bias in datasets. React, FastAPI, Pandas, MongoDB." src="assets/work-fairvision-light.svg#gh-light-mode-only" width="49%"></a>
-<a href="https://faizkhan.tech/#work"><img alt="SafeZone: secure incident-reporting APIs with JWT auth and role-based access. NestJS, PostgreSQL, Drizzle, Swagger." src="assets/work-safezone-dark.svg#gh-dark-mode-only" width="49%"><img alt="SafeZone: secure incident-reporting APIs with JWT auth and role-based access. NestJS, PostgreSQL, Drizzle, Swagger." src="assets/work-safezone-light.svg#gh-light-mode-only" width="49%"></a>
-<a href="https://github.com/ifaizk5/faiz-khan-mern-10pshine"><img alt="Noteify: full-stack notes app from the 10Pearls Shine program. MongoDB, Express, React, Node.js." src="assets/work-noteify-dark.svg#gh-dark-mode-only" width="49%"><img alt="Noteify: full-stack notes app from the 10Pearls Shine program. MongoDB, Express, React, Node.js." src="assets/work-noteify-light.svg#gh-light-mode-only" width="49%"></a>
-<a href="https://github.com/ifaizk5/portfolio"><img alt="faizkhan.tech: this portfolio, deployed by CI on every push. React, TypeScript, GSAP, Vercel." src="assets/work-portfolio-dark.svg#gh-dark-mode-only" width="49%"><img alt="faizkhan.tech: this portfolio, deployed by CI on every push. React, TypeScript, GSAP, Vercel." src="assets/work-portfolio-light.svg#gh-light-mode-only" width="49%"></a>
+<!-- Cards use <picture> for theme switching; GitHub splits a <picture> placed inside a link, so links sit in the row below. -->
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-fairvision-dark.svg"><img alt="FairVision: detects and mitigates bias in datasets. React, FastAPI, Pandas, MongoDB." src="assets/work-fairvision-light.svg" width="49%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-safezone-dark.svg"><img alt="SafeZone: secure incident-reporting APIs with JWT auth and role-based access. NestJS, PostgreSQL, Drizzle, Swagger." src="assets/work-safezone-light.svg" width="49%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-noteify-dark.svg"><img alt="Noteify: full-stack notes app from the 10Pearls Shine program. MongoDB, Express, React, Node.js." src="assets/work-noteify-light.svg" width="49%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-portfolio-dark.svg"><img alt="faizkhan.tech: this portfolio, deployed by CI on every push. React, TypeScript, GSAP, Vercel." src="assets/work-portfolio-light.svg" width="49%"></picture>
+
+<p align="center"><sub>
+  <a href="https://faizkhan.tech/#work">FairVision &amp; SafeZone on faizkhan.tech ↗</a> &nbsp;·&nbsp;
+  <a href="https://github.com/ifaizk5/faiz-khan-mern-10pshine">Noteify repo ↗</a> &nbsp;·&nbsp;
+  <a href="https://github.com/ifaizk5/portfolio">Portfolio repo ↗</a>
+</sub></p>
 
 <br><br>
 
