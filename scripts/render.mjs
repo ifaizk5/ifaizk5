@@ -252,7 +252,8 @@ for (const r of live.user.repositories.nodes) {
 }
 const totalBytes = Object.values(langBytes).reduce((a, b) => a + b, 0)
 const sorted = Object.entries(langBytes).sort((a, b) => b[1] - a[1])
-const top = sorted.slice(0, 6).map(([k, v]) => [k, v / totalBytes])
+// Rows under 0.5% would read as 0%, so they fold into 'everything else'.
+const top = sorted.slice(0, 6).map(([k, v]) => [k, v / totalBytes]).filter(([, p]) => p >= 0.005)
 const rest = 1 - top.reduce((s, [, p]) => s + p, 0)
 if (rest > 0.005) top.push(['everything else', rest])
 const repoCount = live.user.repositories.nodes.filter((r) => r.name !== LOGIN).length
